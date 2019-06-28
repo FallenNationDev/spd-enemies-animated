@@ -124,7 +124,6 @@ License
 
 [GNU General Public License v3.0](https://github.com/FallenNationDev/spd-enemies-animated/blob/master/LICENSE)
 
-[//]: # (Raw links)
 [bat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bat.gif
 [crab]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/crab.gif
 [demon]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/demon.gif
@@ -153,7 +152,6 @@ License
 [warlock]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/warlock.gif
 [yog]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/yog.gif
 
-[//]: # (Blob Links)
 [bat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bat.gif
 [crab_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/crab.gif
 [demon_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/demon.gif
@@ -182,6 +180,5 @@ License
 [warlock_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/warlock.gif
 [yog_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/yog.gif
 
-[//]: # (Other Links)
 [discord_hack_week]: https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg
 [discord_lithium_server]: discord.gg/asDUrbR
