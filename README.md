@@ -2,122 +2,127 @@
 **spd-enemies-animated**
 ======
 
-[![1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
+[![1.1.0](https://img.shields.io/badge/version-1.1.0-green.svg)](#)
 [![FallenNationDev](https://img.shields.io/badge/author-FallenNationDev-blue.svg)](https://github.com/FallenNationDev)
 
-Discord Hack Week | 2019
+**Discord Hack Week | 2019**
 ------
 
 ![Discord Hack Week | 2019][discord_hack_week]
 
-I created these assets for `MarkoZajc#2119`, for his Discord Hack Week project called `LRPG`, a rouge like dungeon Discord game.
+I have converted some spritesheets from [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/) into the graphics interchange format (`.gif`) for `MarkoZajc#2119`. They will be used in his Discord Hack Week project called `LRPG`, a semi-roguelike dungeon crawler game for Discord. [https://github.com/markozajc/LRPG](https://github.com/markozajc/LRPG)
 
 If you want to join his Discord Server click this Link here! [Lithum Discord Server][discord_lithium_server]
 
-Preview
+**Preview**
 ------
 
-| Bat         | Type                                           |
-|:-----------:|:----------------------------------------------:|
-| ![Bat][bat] | Bat \| Enemy \| [Link][bat_blob] \| [Raw][bat] |
+Bosses
+------
 
-| Crab          | Type                                              |
-|:-------------:|:-------------------------------------------------:|
-| ![Crab][crab] | Crab \| Enemy \| [Link][crab_blob] \| [Raw][crab] |
+| DM300           | Name  | Type | Blob               | Raw          |
+|:---------------:|:-----:|:----:|:------------------:|:------------:|
+| ![DM300][dm300] | DM300 | Boss | [Link][dm300_blob] | [Raw][dm300] |
 
-| Demon           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Demon][demon] | Demon \| Enemy \| [Link][demon_blob] \| [Raw][demon] |
+| Goo         | Name | Type | Blob             | Raw        |
+|:-----------:|:----:|:----:|:----------------:|:----------:|
+| ![Goo][goo] | Goo  | Boss | [Link][goo_blob] | [Raw][goo] |
 
-| DM300           | Type                                                |
-|:---------------:|:---------------------------------------------------:|
-| ![DM300][dm300] | DM300 \| Boss \| [Link][dm300_blob] \| [Raw][dm300] |
+| King          | Name | Type | Blob              | Raw         |
+|:-------------:|:----:|:----:|:-----------------:|:-----------:|
+| ![King][king] | King | Boss | [Link][king_blob] | [Raw][king] |
 
-| Elemental               | Type                                                             |
-|:-----------------------:|:----------------------------------------------------------------:|
-| ![Elemental][elemental] | Elemental \| Enemy \| [Link][elemental_blob] \| [Raw][elemental] |
+| Tengu           | Name  | Type  | Blob               | Raw          |
+|:---------------:|:-----:|:-----:|:------------------:|:------------:|
+| ![Tengu][tengu] | Tengu | Boss  | [Link][tengu_blob] | [Raw][tengu] |
 
-| Eye         | Type                                           |
-|:-----------:|:----------------------------------------------:|
-| ![Eye][eye] | Eye \| Enemy \| [Link][eye_blob] \| [Raw][eye] |
+| Yog         | Name | Type | Blob             | Raw        |
+|:-----------:|:----:|:----:|:----------------:|:----------:|
+| ![Yog][yog] | Yog  | Boss | [Link][yog_blob] | [Raw][yog] |
 
-| Gnoll         | Type                                                                                      |
-|:-------------:|:-----------------------------------------------------------------------------------------:|
-| ![Gnoll][gnoll]               | Gnoll \| Enemy \| [Link][gnoll_blob] \| [Raw][gnoll]                      |
-| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute \| Enemy \| [Link][gnoll_brute_blob] \| [Raw][gnoll_brute]    |
-| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter \| Enemy \| [Link][gnoll_hunter_blob] \| [Raw][gnoll_hunter] |
-| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman \| Enemy \| [Link][gnoll_shaman_blob] \| [Raw][gnoll_shaman] |
+Enemies
+------
 
-| Golem           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Golem][golem] | Golem \| Enemy \| [Link][golem_blob] \| [Raw][golem] |
+| Bat         | Name | Type  | Blob             | Raw        |
+|:-----------:|:----:|:-----:|:----------------:|:----------:|
+| ![Bat][bat] | Bat  | Enemy | [Link][bat_blob] | [Raw][bat] |
 
-| Goo         | Type                                          |
-|:-----------:|:---------------------------------------------:|
-| ![Goo][goo] | Goo \| Boss \| [Link][goo_blob] \| [Raw][goo] |
+| Crab          | Name | Type  | Blob              | Raw         |
+|:-------------:|:----:|:-----:|:-----------------:|:-----------:|
+| ![Crab][crab] | Crab | Enemy | [Link][crab_blob] | [Raw][crab] |
 
-| Guard           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Guard][guard] | Guard \| Enemy \| [Link][guard_blob] \| [Raw][guard] |
+| Demon           | Name  | Type  | Blob               | Raw          |
+|:---------------:|:-----:|:-----:|:------------------:|:------------:|
+| ![Demon][demon] | Demon | Enemy | [Link][demon_blob] | [Raw][demon] |
 
-| King          | Type                                             |
-|:-------------:|:------------------------------------------------:|
-| ![King][king] | King \| Boss \| [Link][king_blob] \| [Raw][king] |
+| Elemental               | Name      | Type  | Blob                   | Raw              |
+|:-----------------------:|:---------:|:-----:|:----------------------:|:----------------:|
+| ![Elemental][elemental] | Elemental | Enemy | [Link][elemental_blob] | [Raw][elemental] |
 
-| Monk          | Type                                              |
-|:-------------:|:-------------------------------------------------:|
-| ![Monk][monk] | Monk \| Enemy \| [Link][monk_blob] \| [Raw][monk] |
+| Eye         | Name | Type  | Blob             | Raw        |
+|:-----------:|:----:|:-----:|:----------------:|:----------:|
+| ![Eye][eye] | Eye  | Enemy | [Link][eye_blob] | [Raw][eye] |
 
-| Rat                       | Type                                                                |
-|:-------------------------:|:-------------------------------------------------------------------:|
-| ![Rat][rat]               | Rat \| Enemy \| [Link][rat_blob] \| [Raw][rat]                      |
-| ![Rat Albino][rat_albino] | Rat Albino \| Enemy \| [Link][rat_albino_blob] \| [Raw][rat_albino] |
-| ![Rat Plague][rat_plague] | Rat Plague \| Enemy \| [Link][rat_plague_blob] \| [Raw][rat_plague] |
+| Gnoll                         | Name         | Type  | Blob                      | Raw                 |
+|:-----------------------------:|:------------:|:-----:|:-------------------------:|:-------------------:|
+| ![Gnoll][gnoll]               | Gnoll        | Enemy | [Link][gnoll_blob]        | [Raw][gnoll]        |
+| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute  | Enemy | [Link][gnoll_brute_blob]  | [Raw][gnoll_brute]  |
+| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter | Enemy | [Link][gnoll_hunter_blob] | [Raw][gnoll_hunter] |
+| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman | Enemy | [Link][gnoll_shaman_blob] | [Raw][gnoll_shaman] |
 
-| Scorpio             | Type                                                       |
-|:-------------------:|:----------------------------------------------------------:|
-| ![Scorpio][scorpio] | Scorpio \| Enemy \| [Link][scorpio_blob] \| [Raw][scorpio] |
+| Golem           | Name  | Type  | Blob               | Raw          |
+|:---------------:|:-----:|:-----:|:------------------:|:------------:|
+| ![Golem][golem] | Golem | Enemy | [Link][golem_blob] | [Raw][golem] |
 
-| Skeleton              | Type                                                          |
-|:---------------------:|:-------------------------------------------------------------:|
-| ![Skeleton][skeleton] | Skeleton \| Enemy \| [Link][skeleton_blob] \| [Raw][skeleton] |
+| Guard           | Name  | Type  | Blob               | Raw          |
+|:---------------:|:-----:|:-----:|:------------------:|:------------:|
+| ![Guard][guard] | Guard | Enemy | [Link][guard_blob] | [Raw][guard] |
 
-| Spider            | Type                                                    |
-|:-----------------:|:-------------------------------------------------------:|
-| ![Spider][spider] | Spider \| Enemy \| [Link][spider_blob] \| [Raw][spider] |
+| Monk          | Name | Type  | Blob              | Raw         |
+|:-------------:|:----:|:-----:|:-----------------:|:-----------:|
+| ![Monk][monk] | Monk | Enemy | [Link][monk_blob] | [Raw][monk] |
 
-| Succubus              | Type                                                          |
-|:---------------------:|:-------------------------------------------------------------:|
-| ![Succubus][succubus] | Succubus \| Enemy \| [Link][succubus_blob] \| [Raw][succubus] |
+| Rat                       | Name       | Type  | Blob                    | Raw               |
+|:-------------------------:|:----------:|:-----:|:-----------------------:|:-----------------:|
+| ![Rat][rat]               | Rat        | Enemy | [Link][rat_blob]        | [Raw][rat]        |
+| ![Rat Albino][rat_albino] | Rat Albino | Enemy | [Link][rat_albino_blob] | [Raw][rat_albino] |
+| ![Rat Plague][rat_plague] | Rat Plague | Enemy | [Link][rat_plague_blob] | [Raw][rat_plague] |
 
-| Swarm           | Type                                                  |
-|:---------------:|:-----------------------------------------------------:|
-| ![Swarm][swarm] | Swarm \| Enemy  \| [Link][swarm_blob] \| [Raw][swarm] |
+| Scorpio             | Name    | Type  | Blob                 | Raw            |
+|:-------------------:|:-------:|:-----:|:--------------------:|:--------------:|
+| ![Scorpio][scorpio] | Scorpio | Enemy | [Link][scorpio_blob] | [Raw][scorpio] |
 
-| Tengu           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Tengu][tengu] | Tengu \| Boss  \| [Link][tengu_blob] \| [Raw][tengu] |
+| Skeleton              | Name     | Type  | Blob                  | Raw             |
+|:---------------------:|:--------:|:-----:|:---------------------:|:---------------:|
+| ![Skeleton][skeleton] | Skeleton | Enemy | [Link][skeleton_blob] | [Raw][skeleton] |
 
-| Thief           | Type                                                  |
-|:---------------:|:-----------------------------------------------------:|
-| ![Thief][thief] | Thief \| Enemy  \| [Link][thief_blob] \| [Raw][thief] |
+| Spider            | Name   | Type  | Blob                | Raw           |
+|:-----------------:|:------:|:-----:|:-------------------:|:-------------:|
+| ![Spider][spider] | Spider | Enemy | [Link][spider_blob] | [Raw][spider] |
 
-| Warlock             | Type                                                        |
-|:-------------------:|:-----------------------------------------------------------:|
-| ![Warlock][warlock] | Warlock \| Enemy  \| [Link][warlock_blob] \| [Raw][warlock] |
+| Succubus              | Name     | Type  | Blob                  | Raw             |
+|:---------------------:|:--------:|:-----:|:---------------------:|:---------------:|
+| ![Succubus][succubus] | Succubus | Enemy | [Link][succubus_blob] | [Raw][succubus] |
 
-| Yog         | Type                                          |
-|:-----------:|:---------------------------------------------:|
-| ![Yog][yog] | Yog \| Boss \| [Link][yog_blob] \| [Raw][yog] |
+| Swarm           | Name  | Type   | Blob               | Raw          |
+|:---------------:|:-----:|:------:|:------------------:|:------------:|
+| ![Swarm][swarm] | Swarm | Enemy  | [Link][swarm_blob] | [Raw][swarm] |
+
+| Thief           | Name  | Type  | Blob               | Raw          |
+|:---------------:|:-----:|:-----:|:------------------:|:------------:|
+| ![Thief][thief] | Thief | Enemy | [Link][thief_blob] | [Raw][thief] |
+
+| Warlock             | Name    | Type  | Blob                 | Raw            |
+|:-------------------:|:-------:|:-----:|:--------------------:|:--------------:|
+| ![Warlock][warlock] | Warlock | Enemy | [Link][warlock_blob] | [Raw][warlock] |
 
 Authors
 ------
 
 **[FallenNationDev](https://github.com/FallenNationDev)** \| Creator of the animations
 
-**[00-Evan](https://github.com/00-Evan)** \| Creator of the sprites / spritesheets
-
-**[Source](https://github.com/00-Evan/shattered-pixel-dungeon/tree/master/core/src/main/assets)** \| Source of the assets
+**All pictures and resources were kindly provided by** \
+**[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/)** made by **[00-Evan](https://github.com/00-Evan)**
 
 License
 ------
@@ -182,4 +187,3 @@ License
 
 [discord_hack_week]: https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg
 [discord_lithium_server]: discord.gg/asDUrbR
-
