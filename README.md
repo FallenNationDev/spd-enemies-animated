@@ -19,12 +19,14 @@ If you want to join his Discord Server click on this Link here! [Lithum Discord 
 
 ______
 
+<center>
+
 Bosses
 ------
 
 | DM300           | Name  | File size | Blob               | Raw          |
-|:---------------:|:-----:|:----:|:------------------:|:------------:|
-| ![DM300][dm300] | DM300 | 6kb  | [Link][dm300_blob] | [Raw][dm300] |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![DM300][dm300] | DM300 | 6kb       | [Link][dm300_blob] | [Raw][dm300] |
 
 | Goo         | Name | File size | Blob             | Raw        |
 |:-----------:|:----:|:---------:|:----------------:|:----------:|
@@ -32,15 +34,15 @@ Bosses
 
 | King          | Name | File size | Blob              | Raw         |
 |:-------------:|:----:|:---------:|:-----------------:|:-----------:|
-| ![King][king] | King | 16kb | [Link][king_blob] | [Raw][king] |
+| ![King][king] | King | 16kb      | [Link][king_blob] | [Raw][king] |
 
 | Tengu           | Name  | File size | Blob               | Raw          |
 |:---------------:|:-----:|:---------:|:------------------:|:------------:|
-| ![Tengu][tengu] | Tengu | 6kb  | [Link][tengu_blob] | [Raw][tengu] |
+| ![Tengu][tengu] | Tengu | 6kb       | [Link][tengu_blob] | [Raw][tengu] |
 
 | Yog         | Name | File size | Blob             | Raw        |
 |:-----------:|:----:|:---------:|:----------------:|:----------:|
-| ![Yog][yog] | Yog  | 13kb | [Link][yog_blob] | [Raw][yog] |
+| ![Yog][yog] | Yog  | 13kb      | [Link][yog_blob] | [Raw][yog] |
 
 ______
 
@@ -49,11 +51,11 @@ Enemies
 
 | Bat         | Name | File size | Blob             | Raw        |
 |:-----------:|:----:|:---------:|:----------------:|:----------:|
-| ![Bat][bat] | Bat  | 6kb  | [Link][bat_blob] | [Raw][bat] |
+| ![Bat][bat] | Bat  | 6kb       | [Link][bat_blob] | [Raw][bat] |
 
 | Crab          | Name | File size | Blob              | Raw         |
 |:-------------:|:----:|:---------:|:-----------------:|:-----------:|
-| ![Crab][crab] | Crab | 9kb  | [Link][crab_blob] | [Raw][crab] |
+| ![Crab][crab] | Crab | 9kb       | [Link][crab_blob] | [Raw][crab] |
 
 | Demon           | Name  | File size | Blob               | Raw          |
 |:---------------:|:-----:|:---------:|:------------------:|:------------:|
@@ -119,6 +121,8 @@ Enemies
 | Warlock             | Name    | File size | Blob                 | Raw            |
 |:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
 | ![Warlock][warlock] | Warlock | 8kb       | [Link][warlock_blob] | [Raw][warlock] |
+
+</center>
 
 ______
 
