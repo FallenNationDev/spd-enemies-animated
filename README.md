@@ -2,7 +2,7 @@
 **spd-enemies-animated**
 ======
 
-[![1.1.0](https://img.shields.io/badge/version-1.1.0-green.svg)](#)
+[![1.1.0](https://img.shields.io/badge/version-1.1.0-green.svg)](#spd-enemies-animated)
 [![FallenNationDev](https://img.shields.io/badge/author-FallenNationDev-blue.svg)](https://github.com/FallenNationDev)
 
 **Discord Hack Week | 2019**
@@ -12,109 +12,113 @@
 
 I have converted some spritesheets from [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/) into the graphics interchange format (`.gif`) for `MarkoZajc#2119`. They will be used in his Discord Hack Week project called `LRPG`, a semi-roguelike dungeon crawler game for Discord. [https://github.com/markozajc/LRPG](https://github.com/markozajc/LRPG)
 
-If you want to join his Discord Server click this Link here! [Lithum Discord Server][discord_lithium_server]
+If you want to join his Discord Server click on this Link here! [Lithum Discord Server][discord_lithium_server]
 
 **Preview**
 ------
 
+______
+
 Bosses
 ------
 
-| DM300           | Name  | Type | Blob               | Raw          |
+| DM300           | Name  | File size | Blob               | Raw          |
 |:---------------:|:-----:|:----:|:------------------:|:------------:|
-| ![DM300][dm300] | DM300 | Boss | [Link][dm300_blob] | [Raw][dm300] |
+| ![DM300][dm300] | DM300 | 6kb  | [Link][dm300_blob] | [Raw][dm300] |
 
-| Goo         | Name | Type | Blob             | Raw        |
-|:-----------:|:----:|:----:|:----------------:|:----------:|
-| ![Goo][goo] | Goo  | Boss | [Link][goo_blob] | [Raw][goo] |
+| Goo         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Goo][goo] | Goo  | 7kb       | [Link][goo_blob] | [Raw][goo] |
 
-| King          | Name | Type | Blob              | Raw         |
-|:-------------:|:----:|:----:|:-----------------:|:-----------:|
-| ![King][king] | King | Boss | [Link][king_blob] | [Raw][king] |
+| King          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![King][king] | King | 16kb | [Link][king_blob] | [Raw][king] |
 
-| Tengu           | Name  | Type  | Blob               | Raw          |
-|:---------------:|:-----:|:-----:|:------------------:|:------------:|
-| ![Tengu][tengu] | Tengu | Boss  | [Link][tengu_blob] | [Raw][tengu] |
+| Tengu           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Tengu][tengu] | Tengu | 6kb  | [Link][tengu_blob] | [Raw][tengu] |
 
-| Yog         | Name | Type | Blob             | Raw        |
-|:-----------:|:----:|:----:|:----------------:|:----------:|
-| ![Yog][yog] | Yog  | Boss | [Link][yog_blob] | [Raw][yog] |
+| Yog         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Yog][yog] | Yog  | 13kb | [Link][yog_blob] | [Raw][yog] |
 
 Enemies
 ------
 
-| Bat         | Name | Type  | Blob             | Raw        |
-|:-----------:|:----:|:-----:|:----------------:|:----------:|
-| ![Bat][bat] | Bat  | Enemy | [Link][bat_blob] | [Raw][bat] |
+| Bat         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Bat][bat] | Bat  | 6kb  | [Link][bat_blob] | [Raw][bat] |
 
-| Crab          | Name | Type  | Blob              | Raw         |
-|:-------------:|:----:|:-----:|:-----------------:|:-----------:|
-| ![Crab][crab] | Crab | Enemy | [Link][crab_blob] | [Raw][crab] |
+| Crab          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![Crab][crab] | Crab | 9kb  | [Link][crab_blob] | [Raw][crab] |
 
-| Demon           | Name  | Type  | Blob               | Raw          |
-|:---------------:|:-----:|:-----:|:------------------:|:------------:|
-| ![Demon][demon] | Demon | Enemy | [Link][demon_blob] | [Raw][demon] |
+| Demon           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Demon][demon] | Demon | 9kb       | [Link][demon_blob] | [Raw][demon] |
 
-| Elemental               | Name      | Type  | Blob                   | Raw              |
-|:-----------------------:|:---------:|:-----:|:----------------------:|:----------------:|
-| ![Elemental][elemental] | Elemental | Enemy | [Link][elemental_blob] | [Raw][elemental] |
+| Elemental               | Name      | File size | Blob                   | Raw              |
+|:-----------------------:|:---------:|:---------:|:----------------------:|:----------------:|
+| ![Elemental][elemental] | Elemental | 7kb       | [Link][elemental_blob] | [Raw][elemental] |
 
-| Eye         | Name | Type  | Blob             | Raw        |
-|:-----------:|:----:|:-----:|:----------------:|:----------:|
-| ![Eye][eye] | Eye  | Enemy | [Link][eye_blob] | [Raw][eye] |
+| Eye         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Eye][eye] | Eye  | 8kb       | [Link][eye_blob] | [Raw][eye] |
 
-| Gnoll                         | Name         | Type  | Blob                      | Raw                 |
-|:-----------------------------:|:------------:|:-----:|:-------------------------:|:-------------------:|
-| ![Gnoll][gnoll]               | Gnoll        | Enemy | [Link][gnoll_blob]        | [Raw][gnoll]        |
-| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute  | Enemy | [Link][gnoll_brute_blob]  | [Raw][gnoll_brute]  |
-| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter | Enemy | [Link][gnoll_hunter_blob] | [Raw][gnoll_hunter] |
-| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman | Enemy | [Link][gnoll_shaman_blob] | [Raw][gnoll_shaman] |
+| Gnoll                         | Name         | File size | Blob                      | Raw                 |
+|:-----------------------------:|:------------:|:---------:|:-------------------------:|:-------------------:|
+| ![Gnoll][gnoll]               | Gnoll        | 9kb       | [Link][gnoll_blob]        | [Raw][gnoll]        |
+| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute  | 9kb       | [Link][gnoll_brute_blob]  | [Raw][gnoll_brute]  |
+| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter | 9kb       | [Link][gnoll_hunter_blob] | [Raw][gnoll_hunter] |
+| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman | 10kb      | [Link][gnoll_shaman_blob] | [Raw][gnoll_shaman] |
 
-| Golem           | Name  | Type  | Blob               | Raw          |
-|:---------------:|:-----:|:-----:|:------------------:|:------------:|
-| ![Golem][golem] | Golem | Enemy | [Link][golem_blob] | [Raw][golem] |
+| Golem           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Golem][golem] | Golem | 9kb       | [Link][golem_blob] | [Raw][golem] |
 
-| Guard           | Name  | Type  | Blob               | Raw          |
-|:---------------:|:-----:|:-----:|:------------------:|:------------:|
-| ![Guard][guard] | Guard | Enemy | [Link][guard_blob] | [Raw][guard] |
+| Guard           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Guard][guard] | Guard | 11kb      | [Link][guard_blob] | [Raw][guard] |
 
-| Monk          | Name | Type  | Blob              | Raw         |
-|:-------------:|:----:|:-----:|:-----------------:|:-----------:|
-| ![Monk][monk] | Monk | Enemy | [Link][monk_blob] | [Raw][monk] |
+| Monk          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![Monk][monk] | Monk | 12kb      | [Link][monk_blob] | [Raw][monk] |
 
-| Rat                       | Name       | Type  | Blob                    | Raw               |
-|:-------------------------:|:----------:|:-----:|:-----------------------:|:-----------------:|
-| ![Rat][rat]               | Rat        | Enemy | [Link][rat_blob]        | [Raw][rat]        |
-| ![Rat Albino][rat_albino] | Rat Albino | Enemy | [Link][rat_albino_blob] | [Raw][rat_albino] |
-| ![Rat Plague][rat_plague] | Rat Plague | Enemy | [Link][rat_plague_blob] | [Raw][rat_plague] |
+| Rat                       | Name       | File size | Blob                    | Raw               |
+|:-------------------------:|:----------:|:---------:|:-----------------------:|:-----------------:|
+| ![Rat][rat]               | Rat        | 12kb      | [Link][rat_blob]        | [Raw][rat]        |
+| ![Rat Albino][rat_albino] | Rat Albino | 12kb      | [Link][rat_albino_blob] | [Raw][rat_albino] |
+| ![Rat Plague][rat_plague] | Rat Plague | 12kb      | [Link][rat_plague_blob] | [Raw][rat_plague] |
 
-| Scorpio             | Name    | Type  | Blob                 | Raw            |
-|:-------------------:|:-------:|:-----:|:--------------------:|:--------------:|
-| ![Scorpio][scorpio] | Scorpio | Enemy | [Link][scorpio_blob] | [Raw][scorpio] |
+| Scorpio             | Name    | File size | Blob                 | Raw            |
+|:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
+| ![Scorpio][scorpio] | Scorpio | 6kb       | [Link][scorpio_blob] | [Raw][scorpio] |
 
-| Skeleton              | Name     | Type  | Blob                  | Raw             |
-|:---------------------:|:--------:|:-----:|:---------------------:|:---------------:|
-| ![Skeleton][skeleton] | Skeleton | Enemy | [Link][skeleton_blob] | [Raw][skeleton] |
+| Skeleton              | Name     | File size | Blob                  | Raw             |
+|:---------------------:|:--------:|:---------:|:---------------------:|:---------------:|
+| ![Skeleton][skeleton] | Skeleton | 11kb      | [Link][skeleton_blob] | [Raw][skeleton] |
 
-| Spider            | Name   | Type  | Blob                | Raw           |
-|:-----------------:|:------:|:-----:|:-------------------:|:-------------:|
-| ![Spider][spider] | Spider | Enemy | [Link][spider_blob] | [Raw][spider] |
+| Spider            | Name   | File size | Blob                | Raw           |
+|:-----------------:|:------:|:---------:|:-------------------:|:-------------:|
+| ![Spider][spider] | Spider | 8kb       | [Link][spider_blob] | [Raw][spider] |
 
-| Succubus              | Name     | Type  | Blob                  | Raw             |
-|:---------------------:|:--------:|:-----:|:---------------------:|:---------------:|
-| ![Succubus][succubus] | Succubus | Enemy | [Link][succubus_blob] | [Raw][succubus] |
+| Succubus              | Name     | File size | Blob                  | Raw             |
+|:---------------------:|:--------:|:---------:|:---------------------:|:---------------:|
+| ![Succubus][succubus] | Succubus | 13kb      | [Link][succubus_blob] | [Raw][succubus] |
 
-| Swarm           | Name  | Type   | Blob               | Raw          |
-|:---------------:|:-----:|:------:|:------------------:|:------------:|
-| ![Swarm][swarm] | Swarm | Enemy  | [Link][swarm_blob] | [Raw][swarm] |
+| Swarm           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Swarm][swarm] | Swarm | 11kb      | [Link][swarm_blob] | [Raw][swarm] |
 
-| Thief           | Name  | Type  | Blob               | Raw          |
-|:---------------:|:-----:|:-----:|:------------------:|:------------:|
-| ![Thief][thief] | Thief | Enemy | [Link][thief_blob] | [Raw][thief] |
+| Thief           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Thief][thief] | Thief | 6kb       | [Link][thief_blob] | [Raw][thief] |
 
-| Warlock             | Name    | Type  | Blob                 | Raw            |
-|:-------------------:|:-------:|:-----:|:--------------------:|:--------------:|
-| ![Warlock][warlock] | Warlock | Enemy | [Link][warlock_blob] | [Raw][warlock] |
+| Warlock             | Name    | File size | Blob                 | Raw            |
+|:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
+| ![Warlock][warlock] | Warlock | 8kb       | [Link][warlock_blob] | [Raw][warlock] |
+
+______
 
 Authors
 ------
