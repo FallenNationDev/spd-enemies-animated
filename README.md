@@ -19,7 +19,7 @@ If you want to join his Discord Server click on this Link here! [Lithum Discord 
 
 ______
 
-<center>
+<div align="center">
 
 Bosses
 ------
@@ -122,7 +122,7 @@ Enemies
 |:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
 | ![Warlock][warlock] | Warlock | 8kb       | [Link][warlock_blob] | [Raw][warlock] |
 
-</center>
+</div>
 
 ______
 
