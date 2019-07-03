@@ -2,7 +2,7 @@
 **spd-enemies-animated**
 ======
 
-[![2.0.0](https://img.shields.io/badge/version-1.1.0-green.svg)](#spd-enemies-animated)
+[![2.0.0](https://img.shields.io/badge/version-2.0.0-green.svg)](#spd-enemies-animated)
 [![FallenNationDev](https://img.shields.io/badge/author-FallenNationDev-blue.svg)](https://github.com/FallenNationDev)
 
 **Discord Hack Week | 2019**
