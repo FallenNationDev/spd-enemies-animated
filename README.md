@@ -2,8 +2,9 @@
 **spd-enemies-animated**
 ======
 
-[![2.0.0](https://img.shields.io/badge/version-2.0.0-green.svg)](#spd-enemies-animated)
-[![FallenNationDev](https://img.shields.io/badge/author-FallenNationDev-blue.svg)](https://github.com/FallenNationDev)
+![](https://img.shields.io/badge/version-2.0.0-green.svg?style=flat-square)
+![](https://img.shields.io/github/license/FallenNationDev/spd-enemies-animated?style=flat-square)
+![](https://img.shields.io/github/stars/FallenNationDev/spd-enemies-animated?style=flat-square)
 
 **Discord Hack Week | 2019**
 ------
@@ -18,8 +19,6 @@ If you want to join his Discord Server click on this Link here! [Lithum Discord 
 ------
 
 ______
-
-<div align="center">
 
 Bosses
 ------
@@ -43,8 +42,6 @@ Bosses
 | Yog         | Name | File size | Blob             | Raw        |
 |:-----------:|:----:|:---------:|:----------------:|:----------:|
 | ![Yog][yog] | Yog  | 13kb      | [Link][yog_blob] | [Raw][yog] |
-
-______
 
 Enemies
 ------
@@ -129,7 +126,7 @@ ______
 Authors
 ------
 
-**[FallenNationDev](https://github.com/FallenNationDev)** \| Creator of the animations
+**[FallenNationDev](https://github.com/FallenNationDev)**
 
 **All pictures and resources were kindly provided by** \
 **[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/)** made by **[00-Evan](https://github.com/00-Evan)**
@@ -137,63 +134,63 @@ Authors
 License
 ------
 
-[GNU General Public License v3.0](https://github.com/FallenNationDev/spd-enemies-animated/blob/master/LICENSE)
+**[GNU General Public License v3.0](https://github.com/FallenNationDev/spd-enemies-animated/blob/master/LICENSE)**
 
-[bat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bat.gif
-[crab]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/crab.gif
-[demon]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/demon.gif
-[dm300]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/dm300.gif
-[elemental]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/elemental.gif
-[eye]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/eye.gif
-[gnoll]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll.gif
-[gnoll_brute]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_brute.gif
-[gnoll_hunter]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_hunter.gif
-[gnoll_shaman]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_shaman.gif
-[golem]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/golem.gif
-[goo]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/goo.gif
-[guard]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/guard.gif
-[king]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/king.gif
-[monk]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/monk.gif
-[rat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat.gif
-[rat_albino]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat_albino.gif
-[rat_plague]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat_plague.gif
-[scorpio]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/scorpio.gif
-[skeleton]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/skeleton.gif
-[spider]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/spider.gif
-[succubus]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/succubus.gif
-[swarm]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/swarm.gif
-[tengu]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/tengu.gif
-[thief]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/thief.gif
-[warlock]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/warlock.gif
-[yog]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/yog.gif
+[bat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/bat.gif
+[crab]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/crab.gif
+[demon]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/demon.gif
+[dm300]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/dm300.gif
+[elemental]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/elemental.gif
+[eye]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/eye.gif
+[gnoll]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll.gif
+[gnoll_brute]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_brute.gif
+[gnoll_hunter]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_hunter.gif
+[gnoll_shaman]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_shaman.gif
+[golem]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/golem.gif
+[goo]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/goo.gif
+[guard]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/guard.gif
+[king]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/king.gif
+[monk]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/monk.gif
+[rat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat.gif
+[rat_albino]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat_albino.gif
+[rat_plague]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat_plague.gif
+[scorpio]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/scorpio.gif
+[skeleton]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/skeleton.gif
+[spider]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/spider.gif
+[succubus]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/succubus.gif
+[swarm]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/swarm.gif
+[tengu]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/tengu.gif
+[thief]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/thief.gif
+[warlock]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/warlock.gif
+[yog]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/yog.gif
 
-[bat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bat.gif
-[crab_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/crab.gif
-[demon_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/demon.gif
-[dm300_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/dm300.gif
-[elemental_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/elemental.gif
-[eye_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/eye.gif
-[gnoll_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll.gif
-[gnoll_brute_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_brute.gif
-[gnoll_hunter_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_hunter.gih
-[gnoll_shaman_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_shaman.gif
-[golem_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/golen.gif
-[goo_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/goo.gif
-[guard_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/guard.gif
-[king_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/king.gif
-[monk_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/monk.gif
-[rat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat.gif
-[rat_albino_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat_ablino.gif
-[rat_plague_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat_plague.gif
-[scorpio_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/scorpio.gif
-[skeleton_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/skeleton.gif
-[spider_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/spider.gif
-[succubus_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/succubus.gif
-[swarm_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/swarm.gif
-[tengu_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/tengu.gif
-[thief_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/thief.gif
-[warlock_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/warlock.gif
-[yog_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/yog.gif
+[bat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/bat.gif
+[crab_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/crab.gif
+[demon_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/demon.gif
+[dm300_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/dm300.gif
+[elemental_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/elemental.gif
+[eye_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/eye.gif
+[gnoll_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll.gif
+[gnoll_brute_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_brute.gif
+[gnoll_hunter_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_hunter.gih
+[gnoll_shaman_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_shaman.gif
+[golem_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/golen.gif
+[goo_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/goo.gif
+[guard_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/guard.gif
+[king_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/king.gif
+[monk_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/monk.gif
+[rat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat.gif
+[rat_albino_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat_ablino.gif
+[rat_plague_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat_plague.gif
+[scorpio_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/scorpio.gif
+[skeleton_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/skeleton.gif
+[spider_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/spider.gif
+[succubus_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/succubus.gif
+[swarm_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/swarm.gif
+[tengu_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/tengu.gif
+[thief_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/thief.gif
+[warlock_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/warlock.gif
+[yog_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/yog.gif
 
 [discord_hack_week]: https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg
 [discord_lithium_server]: discord.gg/asDUrbR
