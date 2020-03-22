@@ -2,184 +2,195 @@
 **spd-enemies-animated**
 ======
 
-[![1.0.0](https://img.shields.io/badge/version-1.0.0-green.svg)](#)
-[![FallenNationDev](https://img.shields.io/badge/author-FallenNationDev-blue.svg)](https://github.com/FallenNationDev)
+![](https://img.shields.io/badge/version-2.0.0-green.svg?style=flat-square)
+![](https://img.shields.io/github/license/FallenNationDev/spd-enemies-animated?style=flat-square)
+![](https://img.shields.io/github/stars/FallenNationDev/spd-enemies-animated?style=flat-square)
 
-Discord Hack Week | 2019
+**Discord Hack Week | 2019**
 ------
 
 ![Discord Hack Week | 2019][discord_hack_week]
 
-I created these assets for `MarkoZajc#2119`, for his Discord Hack Week project called `LRPG`, a rouge like dungeon Discord game.
+I have converted some spritesheets from [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/) into the graphics interchange format (`.gif`) for `MarkoZajc#2119`. They will be used in his Discord Hack Week project called `LRPG`, a semi-roguelike dungeon crawler game for Discord. [https://github.com/markozajc/LRPG](https://github.com/markozajc/LRPG)
 
-If you want to join his Discord Server click this Link here! [Lithum Discord Server][discord_lithium_server]
+If you want to join his Discord Server click on this Link here! [Lithum Discord Server][discord_lithium_server]
 
-Preview
+**Preview**
 ------
 
-| Bat         | Type                                           |
-|:-----------:|:----------------------------------------------:|
-| ![Bat][bat] | Bat \| Enemy \| [Link][bat_blob] \| [Raw][bat] |
+______
 
-| Crab          | Type                                              |
-|:-------------:|:-------------------------------------------------:|
-| ![Crab][crab] | Crab \| Enemy \| [Link][crab_blob] \| [Raw][crab] |
+Bosses
+------
 
-| Demon           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Demon][demon] | Demon \| Enemy \| [Link][demon_blob] \| [Raw][demon] |
+| DM300           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![DM300][dm300] | DM300 | 6kb       | [Link][dm300_blob] | [Raw][dm300] |
 
-| DM300           | Type                                                |
-|:---------------:|:---------------------------------------------------:|
-| ![DM300][dm300] | DM300 \| Boss \| [Link][dm300_blob] \| [Raw][dm300] |
+| Goo         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Goo][goo] | Goo  | 7kb       | [Link][goo_blob] | [Raw][goo] |
 
-| Elemental               | Type                                                             |
-|:-----------------------:|:----------------------------------------------------------------:|
-| ![Elemental][elemental] | Elemental \| Enemy \| [Link][elemental_blob] \| [Raw][elemental] |
+| King          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![King][king] | King | 16kb      | [Link][king_blob] | [Raw][king] |
 
-| Eye         | Type                                           |
-|:-----------:|:----------------------------------------------:|
-| ![Eye][eye] | Eye \| Enemy \| [Link][eye_blob] \| [Raw][eye] |
+| Tengu           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Tengu][tengu] | Tengu | 6kb       | [Link][tengu_blob] | [Raw][tengu] |
 
-| Gnoll         | Type                                                                                      |
-|:-------------:|:-----------------------------------------------------------------------------------------:|
-| ![Gnoll][gnoll]               | Gnoll \| Enemy \| [Link][gnoll_blob] \| [Raw][gnoll]                      |
-| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute \| Enemy \| [Link][gnoll_brute_blob] \| [Raw][gnoll_brute]    |
-| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter \| Enemy \| [Link][gnoll_hunter_blob] \| [Raw][gnoll_hunter] |
-| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman \| Enemy \| [Link][gnoll_shaman_blob] \| [Raw][gnoll_shaman] |
+| Yog         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Yog][yog] | Yog  | 13kb      | [Link][yog_blob] | [Raw][yog] |
 
-| Golem           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Golem][golem] | Golem \| Enemy \| [Link][golem_blob] \| [Raw][golem] |
+Enemies
+------
 
-| Goo         | Type                                          |
-|:-----------:|:---------------------------------------------:|
-| ![Goo][goo] | Goo \| Boss \| [Link][goo_blob] \| [Raw][goo] |
+| Bat         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Bat][bat] | Bat  | 6kb       | [Link][bat_blob] | [Raw][bat] |
 
-| Guard           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Guard][guard] | Guard \| Enemy \| [Link][guard_blob] \| [Raw][guard] |
+| Crab          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![Crab][crab] | Crab | 9kb       | [Link][crab_blob] | [Raw][crab] |
 
-| King          | Type                                             |
-|:-------------:|:------------------------------------------------:|
-| ![King][king] | King \| Boss \| [Link][king_blob] \| [Raw][king] |
+| Demon           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Demon][demon] | Demon | 9kb       | [Link][demon_blob] | [Raw][demon] |
 
-| Monk          | Type                                              |
-|:-------------:|:-------------------------------------------------:|
-| ![Monk][monk] | Monk \| Enemy \| [Link][monk_blob] \| [Raw][monk] |
+| Elemental               | Name      | File size | Blob                   | Raw              |
+|:-----------------------:|:---------:|:---------:|:----------------------:|:----------------:|
+| ![Elemental][elemental] | Elemental | 7kb       | [Link][elemental_blob] | [Raw][elemental] |
 
-| Rat                       | Type                                                                |
-|:-------------------------:|:-------------------------------------------------------------------:|
-| ![Rat][rat]               | Rat \| Enemy \| [Link][rat_blob] \| [Raw][rat]                      |
-| ![Rat Albino][rat_albino] | Rat Albino \| Enemy \| [Link][rat_albino_blob] \| [Raw][rat_albino] |
-| ![Rat Plague][rat_plague] | Rat Plague \| Enemy \| [Link][rat_plague_blob] \| [Raw][rat_plague] |
+| Eye         | Name | File size | Blob             | Raw        |
+|:-----------:|:----:|:---------:|:----------------:|:----------:|
+| ![Eye][eye] | Eye  | 8kb       | [Link][eye_blob] | [Raw][eye] |
 
-| Scorpio             | Type                                                       |
-|:-------------------:|:----------------------------------------------------------:|
-| ![Scorpio][scorpio] | Scorpio \| Enemy \| [Link][scorpio_blob] \| [Raw][scorpio] |
+| Gnoll                         | Name         | File size | Blob                      | Raw                 |
+|:-----------------------------:|:------------:|:---------:|:-------------------------:|:-------------------:|
+| ![Gnoll][gnoll]               | Gnoll        | 9kb       | [Link][gnoll_blob]        | [Raw][gnoll]        |
+| ![Gnoll Brute][gnoll_brute]   | Gnoll Brute  | 9kb       | [Link][gnoll_brute_blob]  | [Raw][gnoll_brute]  |
+| ![Gnoll Hunter][gnoll_hunter] | Gnoll Hunter | 9kb       | [Link][gnoll_hunter_blob] | [Raw][gnoll_hunter] |
+| ![Gnoll Shaman][gnoll_shaman] | Gnoll Shaman | 10kb      | [Link][gnoll_shaman_blob] | [Raw][gnoll_shaman] |
 
-| Skeleton              | Type                                                          |
-|:---------------------:|:-------------------------------------------------------------:|
-| ![Skeleton][skeleton] | Skeleton \| Enemy \| [Link][skeleton_blob] \| [Raw][skeleton] |
+| Golem           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Golem][golem] | Golem | 9kb       | [Link][golem_blob] | [Raw][golem] |
 
-| Spider            | Type                                                    |
-|:-----------------:|:-------------------------------------------------------:|
-| ![Spider][spider] | Spider \| Enemy \| [Link][spider_blob] \| [Raw][spider] |
+| Guard           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Guard][guard] | Guard | 11kb      | [Link][guard_blob] | [Raw][guard] |
 
-| Succubus              | Type                                                          |
-|:---------------------:|:-------------------------------------------------------------:|
-| ![Succubus][succubus] | Succubus \| Enemy \| [Link][succubus_blob] \| [Raw][succubus] |
+| Monk          | Name | File size | Blob              | Raw         |
+|:-------------:|:----:|:---------:|:-----------------:|:-----------:|
+| ![Monk][monk] | Monk | 12kb      | [Link][monk_blob] | [Raw][monk] |
 
-| Swarm           | Type                                                  |
-|:---------------:|:-----------------------------------------------------:|
-| ![Swarm][swarm] | Swarm \| Enemy  \| [Link][swarm_blob] \| [Raw][swarm] |
+| Rat                       | Name       | File size | Blob                    | Raw               |
+|:-------------------------:|:----------:|:---------:|:-----------------------:|:-----------------:|
+| ![Rat][rat]               | Rat        | 12kb      | [Link][rat_blob]        | [Raw][rat]        |
+| ![Rat Albino][rat_albino] | Rat Albino | 12kb      | [Link][rat_albino_blob] | [Raw][rat_albino] |
+| ![Rat Plague][rat_plague] | Rat Plague | 12kb      | [Link][rat_plague_blob] | [Raw][rat_plague] |
 
-| Tengu           | Type                                                 |
-|:---------------:|:----------------------------------------------------:|
-| ![Tengu][tengu] | Tengu \| Boss  \| [Link][tengu_blob] \| [Raw][tengu] |
+| Scorpio             | Name    | File size | Blob                 | Raw            |
+|:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
+| ![Scorpio][scorpio] | Scorpio | 6kb       | [Link][scorpio_blob] | [Raw][scorpio] |
 
-| Thief           | Type                                                  |
-|:---------------:|:-----------------------------------------------------:|
-| ![Thief][thief] | Thief \| Enemy  \| [Link][thief_blob] \| [Raw][thief] |
+| Skeleton              | Name     | File size | Blob                  | Raw             |
+|:---------------------:|:--------:|:---------:|:---------------------:|:---------------:|
+| ![Skeleton][skeleton] | Skeleton | 11kb      | [Link][skeleton_blob] | [Raw][skeleton] |
 
-| Warlock             | Type                                                        |
-|:-------------------:|:-----------------------------------------------------------:|
-| ![Warlock][warlock] | Warlock \| Enemy  \| [Link][warlock_blob] \| [Raw][warlock] |
+| Spider            | Name   | File size | Blob                | Raw           |
+|:-----------------:|:------:|:---------:|:-------------------:|:-------------:|
+| ![Spider][spider] | Spider | 8kb       | [Link][spider_blob] | [Raw][spider] |
 
-| Yog         | Type                                          |
-|:-----------:|:---------------------------------------------:|
-| ![Yog][yog] | Yog \| Boss \| [Link][yog_blob] \| [Raw][yog] |
+| Succubus              | Name     | File size | Blob                  | Raw             |
+|:---------------------:|:--------:|:---------:|:---------------------:|:---------------:|
+| ![Succubus][succubus] | Succubus | 13kb      | [Link][succubus_blob] | [Raw][succubus] |
+
+| Swarm           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Swarm][swarm] | Swarm | 11kb      | [Link][swarm_blob] | [Raw][swarm] |
+
+| Thief           | Name  | File size | Blob               | Raw          |
+|:---------------:|:-----:|:---------:|:------------------:|:------------:|
+| ![Thief][thief] | Thief | 6kb       | [Link][thief_blob] | [Raw][thief] |
+
+| Warlock             | Name    | File size | Blob                 | Raw            |
+|:-------------------:|:-------:|:---------:|:--------------------:|:--------------:|
+| ![Warlock][warlock] | Warlock | 8kb       | [Link][warlock_blob] | [Raw][warlock] |
+
+</div>
+
+______
 
 Authors
 ------
 
-**[FallenNationDev](https://github.com/FallenNationDev)** \| Creator of the animations
+**[FallenNationDev](https://github.com/FallenNationDev)**
 
-**[00-Evan](https://github.com/00-Evan)** \| Creator of the sprites / spritesheets
-
-**[Source](https://github.com/00-Evan/shattered-pixel-dungeon/tree/master/core/src/main/assets)** \| Source of the assets
+**All pictures and resources were kindly provided by** \
+**[Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon/)** made by **[00-Evan](https://github.com/00-Evan)**
 
 License
 ------
 
-[GNU General Public License v3.0](https://github.com/FallenNationDev/spd-enemies-animated/blob/master/LICENSE)
+**[GNU General Public License v3.0](https://github.com/FallenNationDev/spd-enemies-animated/blob/master/LICENSE)**
 
-[bat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bat.gif
-[crab]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/crab.gif
-[demon]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/demon.gif
-[dm300]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/dm300.gif
-[elemental]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/elemental.gif
-[eye]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/eye.gif
-[gnoll]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll.gif
-[gnoll_brute]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_brute.gif
-[gnoll_hunter]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_hunter.gif
-[gnoll_shaman]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/gnoll_shaman.gif
-[golem]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/golem.gif
-[goo]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/goo.gif
-[guard]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/guard.gif
-[king]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/king.gif
-[monk]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/monk.gif
-[rat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat.gif
-[rat_albino]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat_albino.gif
-[rat_plague]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/rat_plague.gif
-[scorpio]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/scorpio.gif
-[skeleton]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/skeleton.gif
-[spider]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/spider.gif
-[succubus]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/succubus.gif
-[swarm]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/swarm.gif
-[tengu]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/tengu.gif
-[thief]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/thief.gif
-[warlock]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/warlock.gif
-[yog]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/yog.gif
+[bat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/bat.gif
+[crab]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/crab.gif
+[demon]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/demon.gif
+[dm300]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/dm300.gif
+[elemental]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/elemental.gif
+[eye]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/eye.gif
+[gnoll]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll.gif
+[gnoll_brute]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_brute.gif
+[gnoll_hunter]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_hunter.gif
+[gnoll_shaman]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/gnoll_shaman.gif
+[golem]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/golem.gif
+[goo]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/goo.gif
+[guard]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/guard.gif
+[king]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/king.gif
+[monk]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/monk.gif
+[rat]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat.gif
+[rat_albino]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat_albino.gif
+[rat_plague]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/rat_plague.gif
+[scorpio]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/scorpio.gif
+[skeleton]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/skeleton.gif
+[spider]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/spider.gif
+[succubus]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/succubus.gif
+[swarm]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/swarm.gif
+[tengu]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/tengu.gif
+[thief]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/thief.gif
+[warlock]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/enemies/warlock.gif
+[yog]: https://raw.githubusercontent.com/FallenNationDev/spd-enemies-animated/master/bosses/yog.gif
 
-[bat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bat.gif
-[crab_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/crab.gif
-[demon_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/demon.gif
-[dm300_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/dm300.gif
-[elemental_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/elemental.gif
-[eye_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/eye.gif
-[gnoll_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll.gif
-[gnoll_brute_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_brute.gif
-[gnoll_hunter_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_hunter.gih
-[gnoll_shaman_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/gnoll_shaman.gif
-[golem_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/golen.gif
-[goo_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/goo.gif
-[guard_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/guard.gif
-[king_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/king.gif
-[monk_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/monk.gif
-[rat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat.gif
-[rat_albino_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat_ablino.gif
-[rat_plague_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/rat_plague.gif
-[scorpio_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/scorpio.gif
-[skeleton_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/skeleton.gif
-[spider_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/spider.gif
-[succubus_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/succubus.gif
-[swarm_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/swarm.gif
-[tengu_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/tengu.gif
-[thief_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/thief.gif
-[warlock_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/warlock.gif
-[yog_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/yog.gif
+[bat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/bat.gif
+[crab_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/crab.gif
+[demon_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/demon.gif
+[dm300_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/dm300.gif
+[elemental_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/elemental.gif
+[eye_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/eye.gif
+[gnoll_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll.gif
+[gnoll_brute_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_brute.gif
+[gnoll_hunter_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_hunter.gih
+[gnoll_shaman_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/gnoll_shaman.gif
+[golem_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/golen.gif
+[goo_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/goo.gif
+[guard_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/guard.gif
+[king_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/king.gif
+[monk_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/monk.gif
+[rat_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat.gif
+[rat_albino_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat_ablino.gif
+[rat_plague_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/rat_plague.gif
+[scorpio_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/scorpio.gif
+[skeleton_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/skeleton.gif
+[spider_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/spider.gif
+[succubus_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/succubus.gif
+[swarm_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/swarm.gif
+[tengu_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/tengu.gif
+[thief_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/thief.gif
+[warlock_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/enemies/warlock.gif
+[yog_blob]: https://github.com/FallenNationDev/spd-enemies-animated/blob/master/bosses/yog.gif
 
 [discord_hack_week]: https://cdn-images-1.medium.com/max/2600/1*lh6NS8hx0pu5mlZeSqnu5w.jpeg
 [discord_lithium_server]: discord.gg/asDUrbR
-
